@@ -1,2 +1,2 @@
-# INFO-F404-Real_Time_Scheduler
+# Real TIme Operating Systems - Real Time Scheduler: Audsley's algorithm
  
